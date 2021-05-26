@@ -1,1 +1,1 @@
-# StoreTry
+# StoreTry.github.io
